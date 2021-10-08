@@ -28,13 +28,18 @@ We have given the background colour for the _game body_ as a blue-black colour s
 
 For _h1_, we have used a black-ish font colour and aligned it to the center. The font used is 'Asap, sans-serif' which we previously imported.
 
-Now, we have provided styling for the _scoreboard_ and _badge_ classes as mentioned in the file _style.css_.
+Now,for the _scoreboard_ we have used the box-shadow property to give it a depth look and in _badge_ classes we have used text-transform to convert the letters 
+to uppercase and font-weight to make it bold as mentioned in the file _style.css_.
 
 We have positioned the _user-label_(user) and _computer-label_(comp) next.
 
 Further, we have provided styling for the various other classes present, such as _result_, the _p_ tag under the result class, _choices_, and _choice_.
 
 We have also added the hover function to the class _choice_. Next, we have styled the _action-message_.
+
+We have added a background image of triangle and placed the rock , paper , scissor at the three edge of the traingle with the help of _id_ of the class _choices_ which make it looks good.
+
+We have also added 3d effect and a black color background in the _choices_ works when touched with the curser.
 
 Towards the end, we have added **green**, **red** and **gray** glows for wins, losses and draws respectively.
 

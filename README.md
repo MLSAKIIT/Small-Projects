@@ -54,8 +54,7 @@ If you have any doubts regarding **"How to create your first PR?"**, then checko
 
 ---
 
-## Hacktoberfest 2021 | FAQs
-   
+## Hacktoberfest 2021 | FAQs   
 
 **<details><summary>What is Open Source?</summary>**
 <br>Open source refers to source code that is publicly accessible and allows anyone to inspect, modify or learn from it. Open source projects encourage collaboration and the freedom to use the software for any purpose you wish.</details>
@@ -92,8 +91,8 @@ If you have any doubts regarding **"How to create your first PR?"**, then checko
 - [Covid Tracker](https://github.com/MSCKIIT/MSCxHacktoberfest/tree/master/Covid%20Tracker "View Project")
 - [Desktop Weather App](https://github.com/MSCKIIT/Small_Projects/tree/master/Desktop-Weather-App "View Project")
 - [DiceGame](https://github.com/MSCKIIT/MSCxHacktoberfest/tree/master/DiceGame "View Project")
+- [Dots and Boxes](https://github.com/MSCKIIT/MSCxHacktoberfest/tree/master/Dots%20and%20Boxes "View Project")
 - [Drum Kit](https://github.com/MSCKIIT/MSCxHacktoberfest/tree/master/Drum%20Kit "View Project")
-- [Grandpa Spoon](https://github.com/MSCKIIT/MSCxHacktoberfest/tree/master/Grandpa%20Spoon "View Project")
 - [JavaScript Quiz](https://github.com/MSCKIIT/MSCxHacktoberfest/tree/master/javascript-quiz-main "View Project")
 - [KnowU Flutter Personality Test App](https://github.com/bhask4r/KnowU-Personality-App "View Project")
 - [Music Player](https://github.com/MSCKIIT/MSCxHacktoberfest/tree/master/Music_Player "View Project")
@@ -110,6 +109,7 @@ If you have any doubts regarding **"How to create your first PR?"**, then checko
 - [Abhinav Mukherjee](https://github.com/abhinav-193 "View Profile")
 - [Akash Chouhan](https://github.com/akashchouhan16 "View Profile")
 - [Anwesha Pati](https://github.com/innatepanda "View Profile")
+- [Arnab Chatterjee](https://github.com/arn4b "View Profile")
 - [Arnab Dan](https://github.com/arnab8335 "View Profile")
 - [Atig Purohit](https://github.com/AtigPurohit "View Profile")
 - [Ayshi Bhowmik](https://github.com/ayshi028 "View Profile")
@@ -121,22 +121,28 @@ If you have any doubts regarding **"How to create your first PR?"**, then checko
 - [Nishant Giri](https://github.com/nishant-giri "View Profile")
 - [Rakshit Agarwal](https://github.com/rakshitweb "View Profile")
 - [Rohit Jaiswal](https://github.com/king-rohit777 "View Profile")
+- [Sagar Satapathy](https://github.com/wishsagarks "View Profile")
 - [Saniya Bhargav](https://github.com/SaniyaBhargav "View Profile")
+- [Santanu Biswas](https://github.com/SantanuxD "View Profile")
+- [Shivangi-Mohanty](https://github.com/Shivangi-27 "View Profile")
+- [Shreya Agarwal](https://github.com/shreya0204 "View Profile")
 
 ---
    
 ## Reviewers
 
+- [Subhayan Das](https://github.com/SubhayanDas08 "View Profile")
 - [Abhinav Mukherjee](https://github.com/abhinav-193 "View Profile")
 - [Animesh Pathak](https://github.com/Sonichigo "View Profile")
 - [Arnab Dan](https://github.com/arnab8335 "View Profile")
-- [Subhayan Das](https://github.com/SubhayanDas08 "View Profile")
+- [Arnab Chatterjee](https://github.com/arn4b "View Profile")
    
 ---
    
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
 <img src = "./utils/hacktober-fest-2021.svg"/>
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 ---
    
